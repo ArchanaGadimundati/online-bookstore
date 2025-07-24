@@ -1,2 +1,2 @@
-# online-bookstore
-online bookstore using html,css
+# 📘 Online Bookstore Management System
+Online platform to browse and manage books.
